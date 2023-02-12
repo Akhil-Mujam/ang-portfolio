@@ -4,3 +4,8 @@
 .color{
     color: rgb(0,51,77);
 }
+.write{
+    font-family: sans-serif;
+    font-size: medium;
+    font-style: italic;
+}
